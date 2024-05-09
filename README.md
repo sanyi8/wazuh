@@ -5,3 +5,8 @@ use documentations: https://wazuh.com/blog/docker-container-security-monitoring-
 
 4 hours later...
 ![image](https://github.com/sanyi8/wazuh/assets/51482271/8e11e539-3c03-44b3-a61e-30a6461c8a56)
+
+
+3 hours later...
+YESS! It was the VPS's port non of the Youtubers talk about this
+![image](https://github.com/sanyi8/wazuh/assets/51482271/a018233d-ee31-4910-a4da-da4b01e1fefb)
